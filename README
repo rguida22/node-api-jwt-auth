@@ -1,0 +1,13 @@
+INSTALLED
+--------------
+express, nodemon, mongoose, dotenv, @hapi/joi, bcryptjs, jsonwebtoken
+
+
+FEATURES
+--------------
+data validation
+check if email exists
+check if password matches
+password encrypt
+jwt 
+
